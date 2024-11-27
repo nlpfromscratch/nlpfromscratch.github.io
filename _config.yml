@@ -1,8 +1,11 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: NLP from scratch
+description: Free and PWYC webinars, workshops, and microcourses on NLP, LLMs, and GenAI from Myles Harrison
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://nlpfromscratch.github.io
+color_scheme: nlpfs
+
+logo: "/assets/images/banner_large.png"
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Github: https://github.com/nlpfromscratch/
