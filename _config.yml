@@ -1,6 +1,6 @@
 title: NLP from scratch
 description: Free and PWYC webinars, workshops, and microcourses on NLP, LLMs, and GenAI from Myles Harrison
-remote_theme: just-the-docs
+theme: just-the-docs
 
 url: https://nlpfromscratch.github.io
 color_scheme: nlpfs
