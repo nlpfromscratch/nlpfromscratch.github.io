@@ -13,7 +13,8 @@ $feedback-color: darken($sidebar-color, 3%);
 $table-background-color: white;
 $search-background-color: white;
 $search-result-preview-color: white;
-$border-color: $grey-dk-200;
+$border-color: white;
 
 @import "./color_schemes/light";
+
 // @import "./vendor/OneDarkJekyll/syntax"; // this is the one-dark-vivid atom syntax theme
