@@ -5,33 +5,39 @@ layout: home
 nav_order: 2
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Getting started with Generative Text and Fine-tuning LLMs in Hugging Face
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+![img](/assets/images/speaker_card.png)
 
-More specifically, the created site:
+This is the git repo for the files for the [NLP from scratch](https://www.nlpfromscratch.com) "Getting started with Generative Text and Fine-tuning LLMs in Hugging Face" workshop presented at the 8th Annual [Toronto Machine Learning Summit (TMLS)](https://www.torontomachinelearning.com/), on Thursday, July 11th, 2024.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+## Description
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+**Talk Abstract:**  
+If you're new to working with LLMs hands-on in code, this is the session for you! In this introductory workshop, you'll get working with Hugging Face and the transformers library for generating text from LLMs and applying performance efficient fine-tuning methods to a generative text model.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+Whether you are starting from near zero or have some prior knowledge of large language models, this workshop is your jumping off point to get you started on working with LLMs.
 
-To get started with creating a site, simply:
+**What You'll Learn:**  
+- Define large language models (LLMs) and the transformer architecture; understand the history of their development, key concepts, and high-level details of their structure and function
+- Be introduced to Hugging Face and the transformers library and see applications thereof in code, using LLMs for generative text
+- Define fine-tuning and understand the motivation for applying it to existing large language models for generative text
+- Applying fine-tuning to a generative text model using the Hugging Face transformers library and a text dataset
+- Be introduced to approaches for working with large language models efficiently on consumer hardware: performance efficient fine-tuning (PEFT) and model quantization
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+## Dependencies
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+These notebooks can be run entirely in [Google Colab](https://colab.google/). If you wish to run these locally in your own python install (or virtualenv / conda environment),  you should install the following dependencies:
+```
+pip install transformers datasets accelerate evaluate bitsandbytes peft huggingface_hub
+```
 
-----
+## Files
+- Slides: [TMLS 2024 - Getting Started with Generative Text and Fine-tuning LLMs in HuggingFace.pdf](https://github.com/nlpfromscratch/workshops/blob/master/finetuning-TMLS-2024/TMLS%202024%20-%20Getting%20Started%20with%20Generative%20Text%20and%20Fine-tuning%20LLMs%20in%20HuggingFace.pdf)
+- Notebook: [TMLS 2024-Generative Text and Fine-tuning LLMs in Hugging Face.ipynb](https://github.com/nlpfromscratch/workshops/blob/master/finetuning-TMLS-2024/TMLS%202024%20-%20Generative%20Text%20and%20Fine-tuning%20LLMs%20in%20Hugging%20Face.ipynb)
+<a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/workshops/blob/master/finetuning-TMLS-2024/TMLS%202024%20-%20Generative%20Text%20and%20Fine-tuning%20LLMs%20in%20Hugging%20Face.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+## Authors
+[Myles Harrison](https://www.mylesharrison.com), Consultant & Trainer at [NLP from scratch](https://www.nlpfromscratch.com).
