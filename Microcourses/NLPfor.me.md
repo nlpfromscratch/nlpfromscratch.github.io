@@ -18,28 +18,28 @@ A Pay-What-You-Can (PWYC) Microcourse in Natural Language Processing
 ## Curriculum
 The course covers the following at a high level, with simple code examples to get the non-technical practitioner unfamiliar with NLP and machine learning started:
 - **Part 1 - Introduction to NLP** (October 7th, 2024)
-  - Slides: <a href="https://github.com/nlpfromscratch/nlpfor.me/blob/master/slides/1. NLP for me - Introduction to NLP.pdf">1. NLP for me - Introduction to NLP.pdf</a> 
-  - Notebook: <a href="https://github.com/nlpfromscratch/nlpfor.me/blob/master/notebooks/1. NLP for me - Intro to NLP and Python.ipynb">1. NLP for me - Intro to NLP and Python.ipynb</a>
-  <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/nlpfor.me/blob/master/notebooks/1. NLP for me - Intro to NLP and Python.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  - Slides: <a href="nlpfor.me/slides/1. NLP for me - Introduction to NLP.pdf">1. NLP for me - Introduction to NLP.pdf</a> 
+  - Notebook: <a href="nlpfor.me/notebooks/1. NLP for me - Intro to NLP and Python.ipynb">1. NLP for me - Intro to NLP and Python.ipynb</a>
+  <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch.github.io/blob/main/Microcourses/nlpfor.me/notebooks/1.%20NLP%20for%20me%20-%20Intro%20to%20NLP%20and%20Python.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  
 - **Part 2 - Data Acquisition and Processing** (October 14th, 2024)
-  - Slides: <a href="https://github.com/nlpfromscratch/nlpfor.me/blob/master/slides/2. NLP for me - Data Acquisition and Preprocessing.pdf">2. NLP for me - Data Acquisition and Preprocessing.pdf</a> 
-  - Notebook: <a href="https://github.com/nlpfromscratch/nlpfor.me/blob/master/notebooks/2. NLP for me - Data Acquisition and Preprocessing.ipynb">2. NLP for me - Data Acquisition and Preprocessing.ipynb</a>
-  <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/nlpfor.me/blob/master/notebooks/2. NLP for me - Data Acquisition and Preprocessing.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  - Slides: <a href="nlpfor.me/slides/2. NLP for me - Data Acquisition and Preprocessing.pdf">2. NLP for me - Data Acquisition and Preprocessing.pdf</a> 
+  - Notebook: <a href="nlpfor.me/notebooks/2. NLP for me - Data Acquisition and Preprocessing.ipynb">2. NLP for me - Data Acquisition and Preprocessing.ipynb</a>
+  <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/nlpfromscratch.github.io/blob/main/Microcourses/nlpfor.me/notebooks/2 %20NLP%20for%20me%20-%20Data%20Acquisition%20and%20Preprocessing.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 - **Part 3 - Machine Learning and Sentiment Analysis**
-  - Slides: <a href="https://github.com/nlpfromscratch/nlpfor.me/blob/master/slides/3. NLP for me - Machine Learning & Sentiment Analysis.pdf">3. NLP for me - Machine Learning & Sentiment Analysis.pdf</a> 
-  - Notebook: <a href="https://github.com/nlpfromscratch/nlpfor.me/blob/master/notebooks/3. NLP for me - Machine Learning and Sentiment.ipynb">3. NLP for me - Machine Learning and Sentiment.ipynb</a>
-  <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/nlpfor.me/blob/master/notebooks/3. NLP for me - Machine Learning and Sentiment.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  
+  - Slides: <a href="nlpfor.me/slides/3. NLP for me - Machine Learning & Sentiment Analysis.pdf">3. NLP for me - Machine Learning & Sentiment Analysis.pdf</a> 
+  - Notebook: <a href="nlpfor.me/notebooks/3. NLP for me - Machine Learning and Sentiment.ipynb">3. NLP for me - Machine Learning and Sentiment.ipynb</a>
+  <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/nlpfromscratch.github.io/blob/main/Microcourses/nlpfor.me/notebooks/3.%20NLP%20for%20me%20-%20Machine%20Learning%20and%20Sentiment.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  
 - **Part 4 - Unsupervised Methods for NLP**
-  - Slides: <a href="https://github.com/nlpfromscratch/nlpfor.me/blob/master/slides/4. NLP for me - Unsupervised Methods for Natural Language.pdf">4. NLP for me - Unsupervised Methods for Natural Language.pdf</a> 
-  - Notebook: <a href="https://github.com/nlpfromscratch/nlpfor.me/blob/master/notebooks/4. NLP for me - Unsupervised Methods for Natural Language.ipynb">4. NLP for me - Unsupervised Methods for Natural Language.ipynb</a>
-  <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/nlpfor.me/blob/master/notebooks/4. NLP for me - Unsupervised Methods for Natural Language.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  - Slides: <a href="nlpfor.me/slides/4. NLP for me - Unsupervised Methods for Natural Language.pdf">4. NLP for me - Unsupervised Methods for Natural Language.pdf</a> 
+  - Notebook: <a href="nlpfor.me/notebooks/4. NLP for me - Unsupervised Methods for Natural Language.ipynb">4. NLP for me - Unsupervised Methods for Natural Language.ipynb</a>
+  <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/nlpfromscratch.github.io/blob/main/Microcourses/nlpfor.me/notebooks/4.%20NLP%20for%20me%20-%20Unsupervised%20Methods%20for%20Natural%20Language.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 - **Part 5 - Deep Learning for Natural Language**
-  - Slides: <a href="https://github.com/nlpfromscratch/nlpfor.me/blob/master/slides/5. NLP for me - Deep Learning for Natural Language.pdf">5. NLP for me - Deep Learning for Natural Language.pdf</a> 
-  - Notebook: <a href="https://github.com/nlpfromscratch/nlpfor.me/blob/master/notebooks/5. NLP for me - Deep Learning for Natural Language.ipynb">5. NLP for me - Deep Learning for Natural Language.ipynb</a>
-  <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/nlpfor.me/blob/master/notebooks/5. NLP for me - Deep Learning for Natural Language.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  
+  - Slides: <a href="nlpfor.me/slides/5. NLP for me - Deep Learning for Natural Language.pdf">5. NLP for me - Deep Learning for Natural Language.pdf</a> 
+  - Notebook: <a href="nlpfor.me/notebooks/5. NLP for me - Deep Learning for Natural Language.ipynb">5. NLP for me - Deep Learning for Natural Language.ipynb</a>
+  <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/nlpfromscratch.github.io/blob/main/Microcourses/nlpfor.me/notebooks/5.%20NLP%20for%20me%20-%20Deep%20Learning%20for%20Natural%20Language.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  
 - **Part 6 - Case Study in NLP**
-  - Notebook: <a href="https://github.com/nlpfromscratch/nlpfor.me/blob/master/notebooks/6. NLP for me - Case Study in NLP.ipynb">6. NLP for me - Case Study in NLP.ipynb</a>
-  <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/nlpfor.me/blob/master/notebooks/6. NLP for me - Case Study in NLP.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  - Notebook: <a href="nlpfor.me/notebooks/6. NLP for me - Case Study in NLP.ipynb">6. NLP for me - Case Study in NLP.ipynb</a>
+  <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/nlpfromscratch.github.io/blob/main/Microcourses/nlpfor.me/notebooks/6.%20NLP%20for%20me%20-%20Case%20Study%20in%20NLP.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Details 
 ### Course Overview:
