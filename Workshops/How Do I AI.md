@@ -7,10 +7,10 @@ nav_order: 1
 # How Do I AI?
 The "How Do I AI?" workshop was presented in-person as part of the Barrie Sandbox Center's Whiteboarding sessions as well as in Toronto at the Toronto Public Library - Fort York Branch.
 
-<object data="../assets/How Do I AI.pdf#toolbar=0" width="100%" style="aspect-ratio: 16 / 9"></object>
+<object data="./How Do I AI.pdf#toolbar=0" width="100%" style="aspect-ratio: 16 / 9"></object>
 
   <div class="button-container">
-    <a href="../assets/How Do I AI.pdf" download class="download-button" style="border-radius:20px; text-decoration:none">Download Slides</a>
+    <a href="./How Do I AI.pdf" download class="download-button" style="border-radius:20px; text-decoration:none">Download Slides</a>
   </div>
 
 ## Description
