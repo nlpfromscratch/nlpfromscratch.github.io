@@ -1,7 +1,7 @@
 ---
 title: Hands-on Hugging Face
 parent: Workshops
-layout: home
+layout: default
 nav_order: 2
 ---
 

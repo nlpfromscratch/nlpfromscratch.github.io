@@ -1,7 +1,7 @@
 ---
 title: How Do I AI?
 parent: Workshops
-layout: home
+layout: default
 nav_order: 1
 ---
 # How Do I AI?
