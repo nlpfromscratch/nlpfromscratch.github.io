@@ -40,13 +40,9 @@ The course covers the following at a high level, with simple code examples to ge
 - 🕒 Sessions: 6 Sessions, 3 Hours Each  
 - 💻 Format: Live Online, Interactive Sessions via Google Meet  
 - 💰 Pricing: [Pay What You Can (PWYC)](https://www.nlpfromscratch.com/pwyc)
-
-<!-- 
-
+ 
 ### Count me in! Where do I register? 
 
 Click below to register 👇
 
 <a href="https://forms.gle/1FLJVaWtvm6wCPzZ7"><img src="../assets/images/button_sign-me-up.png"/></a>
-
--->
