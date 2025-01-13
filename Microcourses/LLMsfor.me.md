@@ -28,8 +28,8 @@ The course covers the following at a high level, with simple code examples to ge
   - Notebook: <a href="llmsfor.me/notebooks/1. LLMs for me - Intro to LLMs & Generative Text.ipynb">1. LLMs for me - Intro to LLMs & Generative Text.ipynb</a>
   <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/nlpfromscratch.github.io/blob/main/Microcourses/llmsfor.me/notebooks/1.%20LLMs%20for%20me%20-%20Intro%20to%20LLMs%20%26%20Generative%20Text.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  
 - **Part 2 - Fine-tuning LLMs, PEFT and Quantization**
-- Slides: <a href="llmsfor.me/slides/2. LLMS for me - Fine-tuning & Quantization.pdf">1. LLMs for me - Introduction LLMs & Generative Text.pdf</a> 
-  - Notebook: <a href="llmsfor.me/notebooks/2. LLMs for me - Fine-tuning & Quantiation.ipynb">1. LLMs for me - Intro to LLMs & Generative Text.ipynb</a>
+  - Slides: <a href="llmsfor.me/slides/2. LLMS for me - Fine-tuning & Quantization.pdf">2. LLMS for me - Fine-tuning & Quantization.pdf</a> 
+  - Notebook: <a href="llmsfor.me/notebooks/2. LLMs for me - Fine-tuning & Quantiation.ipynb">2. LLMs for me - Fine-tuning & Quantiation.ipynb</a>
   <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/nlpfromscratch.github.io/blob/main/Microcourses/llmsfor.me/notebooks/2.%20LLMs%20for%20me%20-%20Fine-tuning%20&%20Quantiation.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  
 - **Part 3 - GPT and the OpenAI Ecosystem**
 - **Part 4 - Developing Large Language Model Applications Locally**
