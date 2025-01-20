@@ -29,9 +29,12 @@ The course covers the following at a high level, with simple code examples to ge
   <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/nlpfromscratch.github.io/blob/main/Microcourses/llmsfor.me/notebooks/1.%20LLMs%20for%20me%20-%20Intro%20to%20LLMs%20%26%20Generative%20Text.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  
 - **Part 2 - Fine-tuning LLMs, PEFT and Quantization**
   - Slides: <a href="llmsfor.me/slides/2. LLMS for me - Fine-tuning & Quantization.pdf">2. LLMS for me - Fine-tuning & Quantization.pdf</a> 
-  - Notebook: <a href="llmsfor.me/notebooks/2. LLMs for me - Fine-tuning & Quantiation.ipynb">2. LLMs for me - Fine-tuning & Quantiation.ipynb</a>
-  <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/nlpfromscratch.github.io/blob/main/Microcourses/llmsfor.me/notebooks/2.%20LLMs%20for%20me%20-%20Fine-tuning%20&%20Quantiation.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  
+  - Notebook: <a href="llmsfor.me/notebooks/2. LLMs for me - Fine-tuning & Quantization.ipynb">2. LLMs for me - Fine-tuning & Quantization.ipynb</a>
+  <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/nlpfromscratch.github.io/blob/main/Microcourses/llmsfor.me/notebooks/2.%20LLMs%20for%20me%20-%20Fine-tuning%20&%20Quantization.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  
 - **Part 3 - GPT and the OpenAI Ecosystem**
+  - Slides: <a href="llmsfor.me/slides/3. LLMs for me - GPT & the OpenAI Ecosystem.pdf">3. LLMs for me - GPT & the OpenAI Ecosystem.pdf</a> 
+  - Notebook: <a href="llmsfor.me/notebooks/3. LLMsfor me - GPT and the OpenAI Ecosystem.ipynb">3. LLMsfor me - GPT and the OpenAI Ecosystem.ipynb</a>
+  <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/nlpfromscratch.github.io/blob/main/Microcourses/llmsfor.me/notebooks/3. LLMsfor me - GPT and the OpenAI Ecosystem.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  
 - **Part 4 - Developing Large Language Model Applications Locally**
 - **Part 5 - Multimodal LLMs and Frameworks**
 - **Part 6 - Case Study in LLms and GenAI**
