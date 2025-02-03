@@ -36,6 +36,8 @@ The course covers the following at a high level, with simple code examples to ge
   - Notebook: <a href="llmsfor.me/notebooks/3. LLMsfor me - GPT and the OpenAI Ecosystem.ipynb">3. LLMsfor me - GPT and the OpenAI Ecosystem.ipynb</a>
   <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/nlpfromscratch.github.io/blob/main/Microcourses/llmsfor.me/notebooks/3. LLMsfor me - GPT and the OpenAI Ecosystem.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  
 - **Part 4 - Developing Large Language Model Applications Locally**
+  - Slides: <a href="llmsfor.me/slides/4. LLMs for me - Local LLM Development.pdf">4. LLMs for me - Local LLM Development.pdf</a> 
+  - Code: [ollama_test.py](llmsfor.me/code/ollama_test.py), [openai_test.py](llmsfor.me/code/openai_test.py)
 - **Part 5 - Multimodal LLMs and Frameworks**
 - **Part 6 - Case Study in LLms and GenAI**
 
