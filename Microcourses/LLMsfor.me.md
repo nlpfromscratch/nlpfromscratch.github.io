@@ -42,6 +42,8 @@ The course covers the following at a high level, with simple code examples to ge
   - Notebook: <a href="llmsfor.me/notebooks/5. LLMs for me - Multimodal Modals and Frameworks.ipynb">5. LLMs for me - Multimodal Modals and Frameworks.ipynb</a>
   <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/nlpfromscratch.github.io/blob/main/Microcourses/llmsfor.me/notebooks/5. LLMs for me - Multimodal Modals and Frameworks.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  
 - **Part 6 - Case Study in LLms and GenAI**
+  - Slides: <a href="llmsfor.me/slides/6. LLMs for me - Case Study in LLMs & Generative AI.pdf">6. LLMs for me - Case Study in LLMs & Generative AI.pdf</a> 
+  - Code: [casestudy.zip](llmsfor.me/code/casestudy.zip)
 
 ## Details 
 ### Course Overview:
@@ -50,9 +52,3 @@ The course covers the following at a high level, with simple code examples to ge
 - 🕒 Sessions: 6 Sessions, 3 Hours Each  
 - 💻 Format: Live Online, Interactive Sessions via Google Meet  
 - 💰 Pricing: [Pay What You Can (PWYC)](https://www.nlpfromscratch.com/pwyc)
- 
-### Count me in! Where do I register? 
-
-Click below to register 👇
-
-<a href="https://forms.gle/1FLJVaWtvm6wCPzZ7"><img src="../assets/images/button_sign-me-up.png"/></a>
