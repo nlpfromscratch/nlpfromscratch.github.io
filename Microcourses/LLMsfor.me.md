@@ -46,6 +46,8 @@ The course covers the following at a high level, with simple code examples to ge
   - Slides: <a href="llmsfor.me/slides/6. LLMs for me - Case Study in LLMs & Generative AI.pdf">6. LLMs for me - Case Study in LLMs & Generative AI.pdf</a> 
   - Code: [casestudy.zip](llmsfor.me/code/casestudy.zip)
 
+Pull everything down at once: `git pull https://github.com/nlpfromscratch/llmsfor.me.git`
+
 ## Details 
 ### Course Overview:
 - ⌛ Duration: 6 Weeks, January-February 2025  
