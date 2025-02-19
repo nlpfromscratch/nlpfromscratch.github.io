@@ -524,8 +524,8 @@ Thanks, and enjoy!
 
 #### Time Series
 
-
-
+* [PatchTST](https://github.com/yuqinie98/PatchTST): Implementation of A Time Series is Worth 64 Words: Long-term Forecasting with Transformers, paper from Princeton and IBM.
+* [Temporal Fusion Transformer](https://github.com/google-research/google-research/tree/master/tft): Application of Transformers to Time Series forecasting from Google Research.
 * [TimeGPT](https://www.nixtla.io/timegpt): Transformer-based time series prediction models from NIXTLA. Requires using their service / an API token.
 * [Lag-Llama](https://github.com/time-series-foundation-models/lag-llama): Towards Foundation Models for Probabilistic Time Series Forecasting. Open-source foundation model for time series forecasting based on the transformer architecture.
 * [Granite](https://research.ibm.com/blog/granite-code-models-open-source?utm_source=tldrai): Time-series versions of open-sourced family of LLMs from IBM Research. On Hugging Face [here](https://huggingface.co/collections/ibm-granite/granite-time-series-models-663a90c6a2da73482bce3dc6).
