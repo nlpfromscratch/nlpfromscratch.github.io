@@ -21,3 +21,7 @@ The free monthly webinars on NLP and LLMs were held from October of 2023 to Nove
   - Notebooks:
     - Template Notebook: <a href="OpenAI 101/OpenAI_101_Getting_Started_with_Python_&_GPT_4o_Template_Noteboook.ipynb"> OpenAI_101_Getting_Started_with_Python_&_GPT_4o_Template_Noteboook.ipynb</a><a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/nlpfromscratch.github.io/blob/main/Webinars/OpenAI%20101/OpenAI_101_Getting_Started_with_Python_%26_GPT_4o_Template_Noteboook.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
     - Solution Notebook:<a href="OpenAI 101/OpenAI_101_Getting_Started_with_Python_&_GPT_4o_Solution_Noteboook.ipynb"> OpenAI_101_Getting_Started_with_Python_&_GPT_4o_Solution_Noteboook.ipynb</a><a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/nlpfromscratch.github.io/blob/main/Webinars/OpenAI%20101/OpenAI_101_Getting_Started_with_Python_%26_GPT_4o_Solution_Noteboook.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+- **Machine Learning: From Zero**: A quick working session on introductory ML, using the wine dataset in sklearn.
+  - Slides: <a href="ML From Zero/Machine Learning From Zero - 2025-04-02.pdf">Machine Learning From Zero - 2025-04-02.pdf</a> 
+  - Notebook: <a href="ML From Zero/Machine_Learning_From_Zero_.ipynb">Machine_Learning_From_Zero_.ipynb</a>
+  
